@@ -78,7 +78,7 @@
         bash
         adb pull /sdcard/aflogical /path/to/destination
         
-![WhatsApp Image 2025-10-28 at 00 39 27_26e4ec82](https://github.com/user-attachments/assets/044d4337-fd98-4a94-ad13-5f785a061bec)
+![WhatsApp Image 2025-10-28 at 09 19 15_9ffb8c2f](https://github.com/user-attachments/assets/df990d2a-1eb4-454f-b2be-f108bfa0c456)
 
 
 
