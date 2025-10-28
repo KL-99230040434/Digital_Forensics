@@ -113,6 +113,7 @@ Main-Class: StegExpose
 ```bash
 java -jar StegExpose.jar "C:\Users\Swapn\StegExpose\testFolder"
 ```
+![WhatsApp Image 2025-10-28 at 09 58 06_7aa172a1](https://github.com/user-attachments/assets/2e83cc50-a5ce-4a2f-9e24-1e176a6c1809)
 
 ---
 
