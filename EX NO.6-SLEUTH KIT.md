@@ -123,7 +123,7 @@ cd "C:\Program Files (x86)\sleuthkit-4.14.0-win32\bin"
 To uncover file history and access details, view the file’s metadata.
 
 ```bash
-.\istat.exe -o 63 "C:\Users\Sai Kumar\Downloads\4Dell Latitude CPi.E01" 119 > "C:\Users\Sai Kumar\Downloads\BOOTLOG_recovered.TXT" 
+.\istat.exe -o 63 "C:\Users\swapn\Downloads\4Dell Latitude CPi.E01" 119 > "C:\Users\swapn\Downloads\BOOTLOG_recovered.TXT" 
 ```
 🧠  
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/29429b46-8389-4a13-b78d-e021daeb44c6" />
